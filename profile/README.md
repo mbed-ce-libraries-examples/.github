@@ -7,8 +7,8 @@
 
 ### Temperature & himidity sensors
 #### Digital sensors:
-* [Mbed_lib_DHT](https://github.com/mbed-ce-libraries-examples/Mbed_lib_DHT) - interface few types of DHT sensros
-* [Mbed_lib_DHT11](https://github.com/mbed-ce-libraries-examples/Mbed_lib_DHT11) - interface only DHT11 sensr
+* [Mbed_lib_DHT](https://github.com/mbed-ce-libraries-examples/Mbed_lib_DHT) - interface few types of DHT sensors
+* [Mbed_lib_DHT11](https://github.com/mbed-ce-libraries-examples/Mbed_lib_DHT11) - interface only DHT11 sensor
 
 <!--
 
