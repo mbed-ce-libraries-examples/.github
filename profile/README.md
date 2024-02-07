@@ -1,5 +1,7 @@
  # Mbed Comunity Edition - Libraries & Examples
- This organization was created in context of [MbedCE organization](https://github.com/mbed-ce)
+ This organization was created in context of [MbedCE organization](https://github.com/mbed-ce) and its purpose is separete repos for Libraries and their Examples.
+
+ //TODO some info about rules
 
 
 <!--
