@@ -1,1 +1,1 @@
-This repo is just for this organization main page
+ This repo is just for main page of this organization 
