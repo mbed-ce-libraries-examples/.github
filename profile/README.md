@@ -5,7 +5,7 @@
 * On this page we will share list of all [libraries](https://github.com/mbed-ce-libraries-examples#list-of-available-libraries) and examples what are available in this org for easy searche.
 * The main repo where we will colect [wiki pages](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/wiki) with handy informations is [LibraryTemplate](https://github.com/mbed-ce-libraries-examples/LibraryTemplate) which is also a simple guide about how a new library should look and what should contain.
 * Discussion about everything should be on only one place [Mbed Comunity Edition - Libraries & Examples - discussions](https://github.com/orgs/mbed-ce-libraries-examples/discussions). Any discussions directly in repos will be ignored and deleted.
-* //TODO
+* For reporting about an issue of any library please use repo [LibraryTemplate - issues](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/issues). For some issues around this organization please use discussions from previous point.
 
 
 ## List of available libraries
