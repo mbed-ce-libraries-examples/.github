@@ -2,12 +2,12 @@
 🙋‍♀️ Hello and welcome to our organization MbedCE - Libraries & Examples. This organization was created in context of [MbedCE organization](https://github.com/mbed-ce) and its purpose is separete repos for Libraries and their Examples.
 
 ## Rules and basic informations:
-* On this page we will share list of all [libraries](https://github.com/mbed-ce-libraries-examples/.github/edit/main/profile/README.md#library-list) and examples what are available in this org for easy searche.
+* On this page we will share list of all [libraries](https://github.com/mbed-ce-libraries-examples/.github/README.md#list-of-available-libraries) and examples what are available in this org for easy searche.
 * The main repo where we can discuss [discuss](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/discussions) and colect [wiki pages](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/wiki) with handy informations is [LibraryTemplate](https://github.com/mbed-ce-libraries-examples/LibraryTemplate) which is also a simple guide about how a new library should look and what should contain.
 * //TODO
 
 
-## Library list:
+## List of available libraries :
 ### Temperature & himidity sensors
 #### Digital sensors:
 * [DHT](https://github.com/mbed-ce-libraries-examples/DHT) - interface few types of DHT sensors
