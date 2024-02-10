@@ -3,7 +3,8 @@
 
 ## Rules and basic informations
 * On this page we will share list of all [libraries](https://github.com/mbed-ce-libraries-examples#list-of-available-libraries) and examples what are available in this org for easy searche.
-* The main repo where we can discuss [discuss](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/discussions) and colect [wiki pages](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/wiki) with handy informations is [LibraryTemplate](https://github.com/mbed-ce-libraries-examples/LibraryTemplate) which is also a simple guide about how a new library should look and what should contain.
+* The main repo where we will colect [wiki pages](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/wiki) with handy informations is [LibraryTemplate](https://github.com/mbed-ce-libraries-examples/LibraryTemplate) which is also a simple guide about how a new library should look and what should contain.
+* Discussion about everything should be on only one place [discuss](https://github.com/orgs/mbed-ce-libraries-examples/discussions). Any discussions directly in repos will be ignored and deleted.
 * //TODO
 
 
