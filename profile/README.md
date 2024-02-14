@@ -14,6 +14,10 @@
 * [DHT](https://github.com/mbed-ce-libraries-examples/DHT) - interface few types of DHT sensors
 
 ### Distance or position sensors
+ * [HC SR04](https://github.com/mbed-ce-libraries-examples/HC_SR04)  - interface for ultrasonic distance sensor
+
+### Display
+* [TextLCD](https://github.com/mbed-ce-libraries-examples/TextLCD) - interface for many variants of character LCD displays
 
 <!--
 
