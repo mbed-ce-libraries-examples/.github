@@ -19,6 +19,10 @@
 ### Display
 * [TextLCD](https://github.com/mbed-ce-libraries-examples/TextLCD) - interface for many variants of character LCD displays
 
+### Network
+#### Protocols
+* https://github.com/mbed-ce-libraries-examples/mbed-http
+
 <!--
 
 **Here are some ideas to get you started:**
