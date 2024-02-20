@@ -19,7 +19,7 @@
 * [TextLCD](https://github.com/mbed-ce-libraries-examples/TextLCD) - interface for many variants of character LCD displays
 
 ### Network protocols
-* https://github.com/mbed-ce-libraries-examples/mbed-http
+* [mbed-http](https://github.com/mbed-ce-libraries-examples/mbed-http)
 
 <!--
 
