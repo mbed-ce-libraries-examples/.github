@@ -10,7 +10,6 @@
 
 ## List of available libraries
 ### Temperature & himidity sensors
-#### Digital sensors
 * [DHT](https://github.com/mbed-ce-libraries-examples/DHT) - interface few types of DHT sensors
 
 ### Distance or position sensors
@@ -19,8 +18,7 @@
 ### Display
 * [TextLCD](https://github.com/mbed-ce-libraries-examples/TextLCD) - interface for many variants of character LCD displays
 
-### Network
-#### Protocols
+### Network protocols
 * https://github.com/mbed-ce-libraries-examples/mbed-http
 
 <!--
