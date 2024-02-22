@@ -11,7 +11,7 @@
 ## List of available libraries
 ### Temperature & himidity sensors
 * [DHT](https://github.com/mbed-ce-libraries-examples/DHT) - interface few types of DHT sensors
-* [DS1820](https://github.com/mbed-ce-libraries-examples/DS1820)
+* [DS1820](https://github.com/mbed-ce-libraries-examples/DS1820) - interface DS1820 sensor
 
 ### Distance or position sensors
  * [HC SR04](https://github.com/mbed-ce-libraries-examples/HC_SR04)  - interface for ultrasonic distance sensor
