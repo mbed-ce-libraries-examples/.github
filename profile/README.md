@@ -1,12 +1,14 @@
 # Mbed Comunity Edition - Libraries & Examples
 🙋‍♀️ Hello and welcome to our organization MbedCE - Libraries & Examples. This organization was created in context of [MbedCE organization](https://github.com/mbed-ce) and its purpose is separete repos for Libraries and their Examples.
 
-## Rules and basic informations
+## Rules and basic informations of this org
 * On this page we will share list of all [libraries](https://github.com/mbed-ce-libraries-examples#list-of-available-libraries) and examples what are available in this org for easy searche.
 * The main repo where we will colect [wiki pages](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/wiki) with handy informations is [LibraryTemplate](https://github.com/mbed-ce-libraries-examples/LibraryTemplate) which is also a simple guide about how a new library should look and what should contain.
-* Discussion about everything should be on only one place [Mbed Comunity Edition - Libraries & Examples - discussions](https://github.com/orgs/mbed-ce-libraries-examples/discussions). Any discussions directly in repos will be ignored and deleted.
-* For reporting about an issue of any library please use repo [LibraryTemplate - issues](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/issues). For some issues around this organization please use discussions from previous point.
+*  **Discussion** about everything should be only on one place [Mbed Comunity Edition - Libraries & Examples - discussions](https://github.com/orgs/mbed-ce-libraries-examples/discussions). Any discussions directly in repos will be ignored and deleted.
 
+### How to contribute
+* For **reporting of an issue** of any library please use repo [LibraryTemplate - issues](https://github.com/mbed-ce-libraries-examples/LibraryTemplate/issues). For some issues around this organization please use discussions mentioned above.
+* Library what is or was already created/modified for Mbed and could be add, please share via a link in [Ideas section of this org discussions](https://github.com/orgs/mbed-ce-libraries-examples/discussions/categories/ideas). In opposite (non-mbed library) it is just future request but keep in mind we are not automatic library convertor from everything to Mbed.
 
 ## List of available libraries
 ### Temperature & himidity sensors
