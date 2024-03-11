@@ -21,6 +21,9 @@
 ### Display
 * [TextLCD](https://github.com/mbed-ce-libraries-examples/TextLCD) - interface for many variants of character LCD displays
 
+### GPIO
+* [PCF8574](https://github.com/mbed-ce-libraries-examples/PCF8574IO) - interface for I2C GPIO expander
+
 ### Network protocols
 * [mbed-http](https://github.com/mbed-ce-libraries-examples/mbed-http)
 
