@@ -11,7 +11,7 @@
 * Library what is or was already created/modified for Mbed and could be add, please share via a link in [Ideas section of this org discussions](https://github.com/orgs/mbed-ce-libraries-examples/discussions/categories/ideas). In opposite (non-mbed library) it is just future request but keep in mind we are not automatic library convertor from everything to Mbed.
 
 ## List of available libraries
-### Temperature & himidity sensors
+### Temperature & humidity sensors
 * [DHT](https://github.com/mbed-ce-libraries-examples/DHT) - interface few types of DHT sensors
 * [DS1820](https://github.com/mbed-ce-libraries-examples/DS1820) - interface DS1820 sensor
 
