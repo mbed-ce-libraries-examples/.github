@@ -27,6 +27,12 @@
 ### Network protocols
 * [mbed-http](https://github.com/mbed-ce-libraries-examples/mbed-http)
 
+### Flash drivers
+* [Macronix Flash Library](https://github.com/mbed-ce-libraries-examples/MacronixFlash)
+
+### Special communication interfaces
+* [RemoteIR](https://github.com/mbed-ce-libraries-examples/RemoteIR)
+
 <!--
 
 **Here are some ideas to get you started:**
