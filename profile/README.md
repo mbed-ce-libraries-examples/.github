@@ -26,10 +26,10 @@
 
 ### Network protocols
 * [mbed-http](https://github.com/mbed-ce-libraries-examples/mbed-http)
-* [mbed-http-server-example](https://github.com/mbed-ce-libraries-examples/mbed-http-server-example)
+* [mbed-http-server-example](https://github.com/mbed-ce-libraries-examples/mbed-http-server-example) - Example of serving HTTP pages from an Mbed device
 
 ### Flash drivers
-* [Macronix Flash Library](https://github.com/mbed-ce-libraries-examples/MacronixFlash)
+* [Macronix Flash Library](https://github.com/mbed-ce-libraries-examples/MacronixFlash) - Drivers for Macronix flash ICs
 
 ### Special communication interfaces
 * [RemoteIR](https://github.com/mbed-ce-libraries-examples/RemoteIR)
