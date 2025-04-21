@@ -26,6 +26,7 @@
 
 ### Network protocols
 * [mbed-http](https://github.com/mbed-ce-libraries-examples/mbed-http)
+* [mbed-http-server-example](https://github.com/mbed-ce-libraries-examples/mbed-http-server-example)
 
 ### Flash drivers
 * [Macronix Flash Library](https://github.com/mbed-ce-libraries-examples/MacronixFlash)
