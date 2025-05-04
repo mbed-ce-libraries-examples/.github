@@ -11,28 +11,31 @@
 * Library what is or was already created/modified for Mbed and could be add, please share via a link in [Ideas section of this org discussions](https://github.com/orgs/mbed-ce-libraries-examples/discussions/categories/ideas). In opposite (non-mbed library) it is just future request but keep in mind we are not automatic library convertor from everything to Mbed.
 
 ## List of available libraries
-### Temperature & humidity sensors
+#### Temperature & humidity sensors
 * [DHT](https://github.com/mbed-ce-libraries-examples/DHT) - interface few types of DHT sensors
 * [DS1820](https://github.com/mbed-ce-libraries-examples/DS1820) - interface DS1820 sensor
 
-### Distance or position sensors
+#### Distance or position sensors
  * [HC SR04](https://github.com/mbed-ce-libraries-examples/HC_SR04)  - interface for ultrasonic distance sensor
 
-### Display
+#### Display
 * [TextLCD](https://github.com/mbed-ce-libraries-examples/TextLCD) - interface for many variants of character LCD displays
 
-### GPIO
+#### GPIO
 * [PCF8574IO](https://github.com/mbed-ce-libraries-examples/PCF8574IO) - interface for I2C GPIO expander
 
-### Network protocols
+#### Network protocols
 * [mbed-http](https://github.com/mbed-ce-libraries-examples/mbed-http)
 * [mbed-http-server-example](https://github.com/mbed-ce-libraries-examples/mbed-http-server-example) - Example of serving HTTP pages from an Mbed device
 
-### Flash drivers
+#### Flash drivers
 * [Macronix Flash Library](https://github.com/mbed-ce-libraries-examples/MacronixFlash) - Drivers for Macronix flash ICs
 
-### Special communication interfaces
+#### Special communication interfaces
 * [RemoteIR](https://github.com/mbed-ce-libraries-examples/RemoteIR)
+
+## List of examples
+* [I2C examples](https://github.com/mbed-ce-libraries-examples/I2C-examples)
 
 <!--
 
