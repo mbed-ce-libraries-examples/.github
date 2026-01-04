@@ -27,6 +27,7 @@
 #### Network protocols
 * [mbed-http](https://github.com/mbed-ce-libraries-examples/mbed-http)
 * [mbed-http-server-example](https://github.com/mbed-ce-libraries-examples/mbed-http-server-example) - Example of serving HTTP pages from an Mbed device
+* [mbed-ntp-client](https://github.com/mbed-ce/mbed-os/pull/532) - Synchronizes the time on your device with millisecond accuracy
 
 #### Flash drivers
 * [Macronix Flash Library](https://github.com/mbed-ce-libraries-examples/MacronixFlash) - Drivers for Macronix flash ICs
