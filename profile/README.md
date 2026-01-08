@@ -37,6 +37,7 @@
 
 ## List of examples
 * [I2C examples](https://github.com/mbed-ce-libraries-examples/I2C-examples)
+* [NTP + command line interface example](https://github.com/mbed-ce-libraries-examples/mbed-ntp-cli-example)
 
 <!--
 
