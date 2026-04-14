@@ -36,6 +36,7 @@
 * [RemoteIR](https://github.com/mbed-ce-libraries-examples/RemoteIR)
 
 ## List of examples
+* [Custom_target_example](https://github.com/mbed-ce-libraries-examples/Custom_target_example)
 * [I2C examples](https://github.com/mbed-ce-libraries-examples/I2C-examples)
 * [NTP + command line interface example](https://github.com/mbed-ce-libraries-examples/mbed-ntp-cli-example)
 
