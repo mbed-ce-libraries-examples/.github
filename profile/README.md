@@ -34,6 +34,7 @@
 
 #### Special communication interfaces
 * [RemoteIR](https://github.com/mbed-ce-libraries-examples/RemoteIR)
+* [mbed-client-cli](https://github.com/mbed-ce-libraries-examples/mbed-client-cli) - Command Line Library for a CLI application
 
 ## List of examples
 * [Custom-target-example-Extended](https://github.com/mbed-ce-libraries-examples/Custom-target-example-Extended)
